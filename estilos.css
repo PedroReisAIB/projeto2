@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  color: #ffe81f;
+  font-family: Impact;
+  font-size: 40px;
+  letter-spacing: 2px;
+}
+
+h2 {
+  color: #4aa8ff;
+  font-family: Georgia;
+  font-size: 28px;
+}
+
+img {
+  height: 300px;
+  margin: 10px;
+  }
+
+.destaque {
+  background-color: #ff8a3d;
+  color: black;
+  font-weight: bold;
+  }
+
+ul {
+  list-style: none;
+}
+
+div {
+  background-color: #111a33;
+  color: #ffe81f;
+  border: 2px solid #4aa8ff;
+}
+
+a {
+  color: #ff6b6b;
+}
